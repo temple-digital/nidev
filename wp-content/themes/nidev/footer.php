@@ -2,7 +2,7 @@
 <footer class="footer align--center">
 	<div class="container">
 		<div class="text">
-			<p>&copy; LEWIS ALEXANDER 2018</p>
+			<p>&copy; NIDEV 2019</p>
 		</div>
 	</div>
 </footer>

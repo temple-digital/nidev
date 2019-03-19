@@ -9,17 +9,85 @@ get_header();
         <div class="col-wrapper clearfix">
             <div class="col--50">
                 <div class="text">
-                    <h1>About.</h1>
+                    <h1>HERO</h1>
                     <h4></h4>
                 </div>
             </div>
             <div class="col--50">
                 <div class="text">
-                    <p>From NI, currently a Front-End Developer for one of NE's most prestigious digital agencies - working with a development team of 2 Designers, 3 Front-End and 3 Back-End Developers to deliver a wide range of web services.</p>
-                    <p>Main languages used on a day-to-day basis consist of HTML5, SCSS, jQuery/JS and basic PHP.</p>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-                    <p>Currently looking to expand my portfolio to help professionals that require a small, brochure style site. Using WordPress, I aim to give the client 99% control over their content, layouts and images.</p>
-                    <p>Sites suitable for Architects, Coffee Shops, Restaurants, Pubs, Builders, Plumbers, Blacksmiths, Portfolios, Home Removals & more.</p>
+<section class="section section--intro">
+    <div class="container">
+        <div class="col-wrapper clearfix">
+            <div class="col--50">
+                <div class="text">
+                    <h1>Services</h1>
+                    <h4></h4>
+                </div>
+            </div>
+            <div class="col--50">
+                <div class="text">
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section section--intro">
+    <div class="container">
+        <div class="col-wrapper clearfix">
+            <div class="col--50">
+                <div class="text">
+                    <h1>About</h1>
+                    <h4></h4>
+                </div>
+            </div>
+            <div class="col--50">
+                <div class="text">
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section section--intro">
+    <div class="container">
+        <div class="col-wrapper clearfix">
+            <div class="col--50">
+                <div class="text">
+                    <h1>Portfolio</h1>
+                    <h4>w/ Filter</h4>
+                </div>
+            </div>
+            <div class="col--50">
+                <div class="text">
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section section--intro">
+    <div class="container">
+        <div class="col-wrapper clearfix">
+            <div class="col--50">
+                <div class="text">
+                    <h1>Social Media</h1>
+                    <h4>IG teasers</h4>
+                </div>
+            </div>
+            <div class="col--50">
+                <div class="text">
+                    <p></p>
                 </div>
             </div>
         </div>
@@ -83,29 +151,6 @@ if( have_rows('layouts') ):
 
 endif;
 ?>
-
-<?php /*
-<section class="section section--cta">
-    <div class="container">
-        <div class="col-wrapper clearfix">
-            <div class="col--50">
-                <div class="col-inner">
-                    <div class="text">
-                        <!-- <h4>View Portfolio</h4> -->
-                    </div>
-                </div>
-            </div>
-            <div class="col--50">
-                <div class="col-inner">
-                    <div class="text">
-                        <!-- <h4>Get in touch</h4> -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-*/ ?>
 
 <?php
 get_footer();

@@ -28,3 +28,29 @@ jQuery(document).ready(function ($) {
     //     }
     // });
 });
+
+// #Icon slider
+if ($('.section--featured-posts .owl-carousel').length) {
+    $('.section--featured-posts .owl-carousel').owlCarousel({
+        loop: false,
+        margin: 10,
+        nav: false,
+        responsive: {
+            0: {
+                items: 1
+            },
+            380: {
+                items: 2
+            },
+            560: {
+                items: 3
+            },
+            767: {
+                items: 4
+            },
+            1630: {
+                items: 6
+            }
+        }
+    });
+}//end Icon Slider

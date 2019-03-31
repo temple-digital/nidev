@@ -86,16 +86,13 @@ if( have_rows('layouts') ):
 endif;
 ?>
 
-
-
-
 <section class="section section--intro">
     <div class="container">
         <div class="col-wrapper clearfix">
             <div class="col--50">
                 <div class="text">
                     <h1>Services</h1>
-                    <h4></h4>
+                    <h4>Web design & development | Responsive web development | SEO | Hosting</h4>
                 </div>
             </div>
             <div class="col--50">

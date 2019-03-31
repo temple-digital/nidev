@@ -428,7 +428,7 @@ blockquote p { display: inline; }
 ============================================ */
 
 .section--featured-posts{
-    margin-top: -257px;
+    margin-top: -150px;
     background-color: transparent;
 
     .col-wrapper{
@@ -465,16 +465,16 @@ blockquote p { display: inline; }
             padding-top: 100%;
         }
 
-        &:after{
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            height: 100%;
-            width: 100%;
-            background-color: rgba(0,0,0,0.5);
-            transition: $transition;
-        }
+        // &:after{
+        //     content: '';
+        //     position: absolute;
+        //     top: 0;
+        //     left: 0;
+        //     height: 100%;
+        //     width: 100%;
+        //     background-color: rgba(0,0,0,0.5);
+        //     transition: $transition;
+        // }
     }
 
     .logo{

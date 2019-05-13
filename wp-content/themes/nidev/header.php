@@ -34,13 +34,13 @@ $twitter = get_field('tel', 'twitter_link');
     <div class="container">
         <div class="flex-wrapper">
         <div class="logo">
-            <h1>NIDEV</h1>
+            <h1>QUAY</h1>
             <h4>WEB.</h4>
         </div>
         <div class="nav">
             <ul>
                 <li>About</li>
-                <li>Services</li>
+                <li class="has-children">Services</li>
                 <li>Portfolio</li>
                 <li>Contact</li>
             </ul>

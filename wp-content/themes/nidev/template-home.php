@@ -124,7 +124,7 @@ if( have_rows('layouts') ):
         ?>
         <div class="flex-wrapper">
             <div class="col--50">
-                <div class="image bg--cover" style="background-image: url('<?php echo $image; ?>');">
+                <div class="image bg--cover" style="background-image: url('<?php echo $background_image; ?>');">
                 </div>
             </div>
             <div class="col--50">

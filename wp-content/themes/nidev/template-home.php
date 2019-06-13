@@ -10,7 +10,7 @@ get_header();
             <div class="col--100">
                 <div class="text">
                     <h2>BT3 Digital</h2>
-                    <p>This is the right site!!! You must chnage branch to Development.</p>
+                    <p>This is the right site!!! You must change branch to Development.</p>
                 </div>
             </div>
         </div>

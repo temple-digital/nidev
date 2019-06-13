@@ -34,8 +34,8 @@ $twitter = get_field('tel', 'twitter_link');
     <div class="container">
         <div class="flex-wrapper">
         <div class="logo">
-            <h1>QUAY</h1>
-            <h4>WEB.</h4>
+            <h1>BT3</h1>
+            <h4>DIGITAL.</h4>
         </div>
         <div class="nav">
             <ul>

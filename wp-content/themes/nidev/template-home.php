@@ -196,5 +196,47 @@ endif;
 
 
 
-<?php
+
+
+
+
+<style>
+
+
+
+/* ////// PUT YOUR CSS HERE  /////// */
+
+
+</style>
+
+
+
+
+
+
+<div>
+
+<!--  /////// PUT YOUR HTML HERE  /////// -->
+
+</div>
+
+
+
+
+
+
+<footer>
+<!--  /////// PUT YOUR FOOTER HTML HERE  /////// -->
+
+</footer>
+
+
+
+
+
+
+
+<?php 
+/*
 get_footer();
+*/
